@@ -1,0 +1,37 @@
+
+body {
+  align-content: center;
+  text-align: center;
+  background-color: #E8ECEF;
+}
+hr{
+  width: 20%;
+  border-style: dotted;
+  bor
+}
+.rowColLogin{
+width: 60%;
+text-align: center;
+margin-left: 30%;
+}
+
+.keyIcon{
+  color: white;
+}
+.signUpbtn:hover{
+  color:#FFB740;
+}
+.signUpbtnDan:hover{
+  color: #D54C4C;
+}
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
